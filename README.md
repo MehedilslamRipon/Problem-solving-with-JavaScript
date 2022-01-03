@@ -12,4 +12,8 @@
 | Problem - 8  | Write a program to reverse a given integer number  |
 | Problem - 9  | Write a function which can convert the time input given in 12 hours format to 24 hours format  |
 | Problem - 10  | Write a function to truncate a string to a certain number of words  |
-| Problem - 11  |   |
+| Problem - 11  | Create a regular expression to validate if the given input is valid Indian mobile number or not  |
+| Problem - 12  | Write a function which accepts two valid dates and returns the difference between them as number of days  |
+| Problem - 13  | Write a function to check if an object is empty or not in javaScript?  |
+| Problem - 14  | Write a function to remove array element based on object property?  |
+<!-- | Problem - 15  |   | -->
