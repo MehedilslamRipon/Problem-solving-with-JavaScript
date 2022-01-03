@@ -11,4 +11,5 @@
 | Problem - 7  | Write a program to reverse a string  |
 | Problem - 8  | Write a program to reverse a given integer number  |
 | Problem - 9  | Write a function which can convert the time input given in 12 hours format to 24 hours format  |
-<!-- | Problem - 10  |   | -->
+| Problem - 10  | Write a function to truncate a string to a certain number of words  |
+| Problem - 11  |   |
