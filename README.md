@@ -16,4 +16,5 @@
 | Problem - 12  | Write a function which accepts two valid dates and returns the difference between them as number of days  |
 | Problem - 13  | Write a function to check if an object is empty or not in javaScript?  |
 | Problem - 14  | Write a function to remove array element based on object property?  |
+| Problem - 15  | Get the Middle Character  |
 <!-- | Problem - 15  |   | -->
