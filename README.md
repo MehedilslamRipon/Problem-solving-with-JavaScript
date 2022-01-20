@@ -17,4 +17,5 @@
 | Problem - 13  | Write a function to check if an object is empty or not in javaScript?  |
 | Problem - 14  | Write a function to remove array element based on object property?  |
 | Problem - 15  | Get the Middle Character  |
-<!-- | Problem - 15  |   | -->
+| Problem - 16  | Generate  random boolean in JavaScript  |
+<!-- | Problem - 16  |   | -->
