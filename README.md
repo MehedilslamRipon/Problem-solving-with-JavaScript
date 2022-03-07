@@ -20,4 +20,5 @@
 | Problem - 16  | Generate  random boolean in JavaScript  |
 | Problem - 17  | Find the largest number in Javascript  |
 | Problem - 18  | Copy an Object deeply  |
+| Problem - 19  | Get Url Parameters  |
 <!-- | Problem - 18  |   | -->
