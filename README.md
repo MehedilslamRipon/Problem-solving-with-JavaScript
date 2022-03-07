@@ -21,4 +21,5 @@
 | Problem - 17  | Find the largest number in Javascript  |
 | Problem - 18  | Copy an Object deeply  |
 | Problem - 19  | Get Url Parameters  |
+| Problem - 20  | Detect device types  |
 <!-- | Problem - 18  |   | -->
