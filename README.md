@@ -22,5 +22,5 @@
 | Problem - 18  | Copy an Object deeply  |
 | Problem - 19  | Get Url Parameters  |
 | Problem - 20  | Detect device types  |
-| Problem - 21  | Return the total of all the records' scores  |
+| Problem - 21  | Return the total of all the records' scores - GameOf11  |
 <!-- | Problem - 22  |   | -->

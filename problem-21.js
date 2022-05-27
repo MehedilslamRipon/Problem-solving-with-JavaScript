@@ -31,7 +31,7 @@ let updateValues = [];
 for (let i = 0; i < ops.length; i++) {
    // conditions & checkings
 
-   // check the element is a number or not
+   // check the string contains number or not
    if (/^[-+]?[0-9]\d*(\.\d+)?$/.test(ops[i])) {
       const parseToInt = parseInt(ops[i]);
       updateValues = [...updateValues, parseToInt];
