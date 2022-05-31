@@ -24,4 +24,5 @@
 | Problem - 20  | Detect device types  |
 | Problem - 21  | Return the total of all the records' scores - GameOf11  |
 | Problem - 22  | Check the number is Palindrome or not  |
+| Problem - 23  | Create a function that receives a string "abcbdbd", and returns an array like: ["a", "a.b", "a.b.c", "a.b.c.b", "a.b.c.b.d", "a.b.c.b.d.b", ...]  |
 <!-- | Problem - 22  |   | -->
