@@ -23,4 +23,5 @@
 | Problem - 19  | Get Url Parameters  |
 | Problem - 20  | Detect device types  |
 | Problem - 21  | Return the total of all the records' scores - GameOf11  |
+| Problem - 22  | Check the number is Palindrome or not  |
 <!-- | Problem - 22  |   | -->
