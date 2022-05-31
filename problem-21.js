@@ -34,7 +34,8 @@ for (let i = 0; i < ops.length; i++) {
    // check the string contains number or not
    if (/^[-+]?[0-9]\d*(\.\d+)?$/.test(ops[i])) {
       const parseToInt = parseInt(ops[i]);
-      updateValues = [...updateValues, parseToInt];
+      // updateValues = [...updateValues, parseToInt];
+      updateValues.push(parseToInt);
    }
    // discard the previous score and replace
    else if (ops[i] === 'R') {
@@ -43,7 +44,8 @@ for (let i = 0; i < ops.length; i++) {
    // multiply the last element of the Array(updateValues)
    else if (ops[i] === 'D') {
       const multiplyTheValue = updateValues[updateValues.length - 1] * 2;
-      updateValues = [...updateValues, multiplyTheValue];
+      // updateValues = [...updateValues, multiplyTheValue];
+      updateValues.push(multiplyTheValue);
    }
    // make the record by adding [-16 + 10] & [10 + -6]
    else if (ops[i] === '+') {
