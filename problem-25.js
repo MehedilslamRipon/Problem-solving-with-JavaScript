@@ -26,25 +26,22 @@ Incrementing by one gives 9 + 1 = 10.
 Thus, the result should be [1,0]. */
 
 // solution
-let digits = [4, 3, 2, 1];
+let digits = [6, 1, 4, 5, 3, 9, 0, 1, 9, 5, 1, 8, 6, 7, 0, 5, 5, 4, 3];
 
 let plusOne = function (digits) {
    let result = [];
+   let str = '';
 
-   // last element from digits[]
-   let lastElement = digits.pop() + 1;
+   for (let i = 0; i < digits.length; i++) {
+      str += digits[i];
+   }
 
-   // split lastElement and convert it to Number
-   let getLastDigit = String(lastElement)
+   let incrementNumber = str * 1 + 1;
+
+   result = incrementNumber
+      .toString()
       .split('')
       .map((i) => Number(i));
-
-   // check the last element is greater than 1 && last digit is 0
-   if (String(lastElement) > 9 && getLastDigit[getLastDigit.length - 1] === 0) {
-      result = digits.concat(getLastDigit);
-   } else {
-      result = digits.concat(getLastDigit);
-   }
 
    // final Array
    return result;
