@@ -28,4 +28,5 @@
 | Problem - 24  | Find your crushes phone number  |
 | Problem - 25  | Plus One - 66.LeetCode - Easy  |
 | Problem - 26  | Linear Search implementation with JS  |
+| Problem - 27  | Binary Search implementation with JS  |
 <!-- | Problem - 22  |   | -->
