@@ -27,4 +27,5 @@
 | Problem - 23  | Create a function that receives a string "abcbdbd", and returns an array like: ["a", "a.b", "a.b.c", "a.b.c.b", "a.b.c.b.d", "a.b.c.b.d.b", ...]  |
 | Problem - 24  | Find your crushes phone number  |
 | Problem - 25  | Plus One - 66.LeetCode - Easy  |
+| Problem - 26  | Linear Search implementation with JS  |
 <!-- | Problem - 22  |   | -->
