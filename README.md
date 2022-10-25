@@ -29,5 +29,5 @@
 | Problem - 25  | [Plus One - 66.LeetCode - Easy](https://github.com/MehedilslamRipon/Problem-solving-with-JavaScript/blob/master/problem-25.js)  |
 | Problem - 26  | [Linear Search implementation with JS](https://github.com/MehedilslamRipon/Problem-solving-with-JavaScript/blob/master/problem-26.js)  |
 | Problem - 27  | [Binary Search implementation with JS](https://github.com/MehedilslamRipon/Problem-solving-with-JavaScript/blob/master/problem-27.js)  |
-| Problem - 28  | [Make a unique random string generator - uuid alternative lite] (https://github.com/MehedilslamRipon/Problem-solving-with-JavaScript/blob/master/problem-28.js) |
+| Problem - 28  | [Make a unique random string generator - uuid alternative lite](https://github.com/MehedilslamRipon/Problem-solving-with-JavaScript/blob/master/problem-28.js) |
 <!-- | Problem - 22  |   | -->
