@@ -31,4 +31,5 @@
 | Problem - 27  | [Binary Search implementation with JS](https://github.com/MehedilslamRipon/Problem-solving-with-JavaScript/blob/master/problem-27.js)  |
 | Problem - 28  | [Make a unique random string generator - uuid alternative lite](https://github.com/MehedilslamRipon/Problem-solving-with-JavaScript/blob/master/problem-28.js) |
 | Problem - 29  | [Given a set of numbers, return the additive inverse of each. Each positive becomes negatives, and the negatives become positives](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-29.js) |
-<!-- | Problem - 30  |   | -->
+| Problem - 31  | [Thinkful-Logic](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-30.js) |
+<!-- | Problem - 31  |   | -->
