@@ -34,4 +34,9 @@
 | Problem - 30  | [Thinkful-Logic](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-30.js) |
 | Problem - 31  | [You Need Only One](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-31.js) |
 | Problem - 32  | [Repeat str](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-32.js) |
-<!-- | Problem - 33  |   | -->
+| Problem - 33  | [average of an array](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-33.js) |
+| Problem - 34  | [Reverse numbers](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-34.js) |
+| Problem - 35  | [A needla in haystack](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-35.js) |
+| Problem - 36  | [Rock Paper Scissors](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-36.js) |
+
+<!-- | Problem - 37  |   | -->
