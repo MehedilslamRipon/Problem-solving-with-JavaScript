@@ -39,5 +39,6 @@
 | Problem - 35  | [A needla in haystack](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-35.js) |
 | Problem - 36  | [Rock Paper Scissors](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-36.js) |
 | Problem - 37  | [sum of an array](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-37.js) |
+| Problem - 38  | [biggest number of an array](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-38.js) |
 
-<!-- | Problem - 38  |   | -->
+<!-- | Problem - 39  |   | -->
