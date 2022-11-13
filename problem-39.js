@@ -1,4 +1,4 @@
-// create a function that take one argument  and return sum n numbers;
+// create a function that take one argument  and return sum n numbers
 
 
 function sum(...args){
