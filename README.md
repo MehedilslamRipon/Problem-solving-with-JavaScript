@@ -41,5 +41,8 @@
 | Problem - 37  | [sum of an array](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-37.js) |
 | Problem - 38  | [biggest number of an array](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-38.js) |
 | Problem - 39  | [sum of n numbers with one argument ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-39.js) |
+| Problem - 40  | [Vowel and Consonant ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-40.js) |
+| Problem - 41  | [Find month name. ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-41.js) |
+| Problem - 42  | [Multiplication table. ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-42.js) |
 
-<!-- | Problem - 40  |   | -->
+<!-- | Problem - 43  |   | -->
