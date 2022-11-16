@@ -45,5 +45,8 @@
 | Problem - 41  | [Find month name. ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-41.js) |
 | Problem - 42  | [Multiplication table. ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-42.js) |
 | Problem - 43  | [ Fibonacci ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-43.js) |
+| Problem - 44  | [ swap ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-44.js) |
+| Problem - 45  | [ max two numbers ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-45.js) |
 
-<!-- | Problem - 44  |   | -->
+
+<!-- | Problem - 46  |   | -->
