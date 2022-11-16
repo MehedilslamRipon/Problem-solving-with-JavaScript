@@ -44,5 +44,6 @@
 | Problem - 40  | [Vowel and Consonant ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-40.js) |
 | Problem - 41  | [Find month name. ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-41.js) |
 | Problem - 42  | [Multiplication table. ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-42.js) |
+| Problem - 43  | [ Fibonacci ](https://github.com/anasmak04/Problem-solving-with-JavaScript/blob/master/problem-43.js) |
 
-<!-- | Problem - 43  |   | -->
+<!-- | Problem - 44  |   | -->
