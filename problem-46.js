@@ -1,5 +1,6 @@
 // Sort an Array You must solve the problem without using any built-in functions
 let sortArray = function(nums) {
+    let swapp
     do {
        swapp = false
        for (let i = 0; i < nums.length; i++) {
